@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "Power_Electronics")(type "KiCad")(uri "${KIPRJMOD}/libs/Kicad-Simulation-library/Power_electronics/Spice_power_electronics.kicad_sym")(options "")(descr ""))
+)
