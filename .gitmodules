@@ -1,0 +1,3 @@
+[submodule "libs/Kicad-Simulation-library"]
+	path = libs/Kicad-Simulation-library
+	url = https://github.com/eduardobehr/Kicad-Simulation-library.git
